@@ -1,0 +1,66 @@
+body{
+    margin: 0;
+}
+.head_container{
+    margin: auto;
+    width: 900px;
+    background-color:azure;
+}
+.container{
+    margin: 20px 20px;
+}
+
+.head{
+    display: flex;
+}
+
+.head_1{
+    width: 40%;
+}
+.head_2{
+    width: 50%;
+
+}
+.experience {
+    display: flex;
+}
+.w-30{
+    width: 25%;
+    
+}
+.w-center{
+    display: flex;
+    justify-content: center;
+}
+.w-70{
+    width: 75%;
+}
+.flex{
+    display: flex;
+}
+.radio{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+.margin_0{
+    margin-bottom: 0;
+}
+.round{
+    width: 15px;
+    height: 15px;
+    border-radius: 50%;
+    background-color: black;
+}
+.round_1{
+    width: 15px;
+    height: 15px;
+    border-radius: 50%;
+    background-color: blue;
+}
+.rad2{
+    display: flex;
+    gap: 5px;
+    margin-right: 50px;
+}
